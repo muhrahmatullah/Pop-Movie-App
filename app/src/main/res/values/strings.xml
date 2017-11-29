@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_msg">Opps, Something went wrong, Try Again!</string>
+    <string name="popular_movie">Popular</string>
+    <string name="highest_rate">Highest Rate</string>
+    <string name="image_description">description</string>
+    <string name="backdrop">backdrop</string>
+    <string name="action_fav">Favorite</string>
+    <string name="trailer">Trailer</string>
+    <string name="review">Review</string>
+</resources>
