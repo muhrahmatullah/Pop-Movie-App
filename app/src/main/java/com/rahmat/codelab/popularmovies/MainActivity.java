@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         setSupportActionBar(toolbar);
 
         String baseUrl = "http://api.themoviedb.org/3/";
-        apiKey = BuildConfig.THE_MOVIE_DB_API_KEY;
+        apiKey = "PASTE YOUR OWN APIKEY HERE :)";
         gridView = (GridView) findViewById(R.id.movieitem_grid);
 
         pbar = (ProgressBar) findViewById(R.id.progressbar);
